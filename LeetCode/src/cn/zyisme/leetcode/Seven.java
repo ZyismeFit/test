@@ -16,7 +16,7 @@ import static java.lang.Math.abs;
 假设只能存32位有符号整数
 请根据这个假设，如果反转后整数溢出那么就返回 0
  */
-public class Two {
+public class Seven {
     public static void main(String[] args) {
         Solution s = new Solution();
         int x = -2147483641;
